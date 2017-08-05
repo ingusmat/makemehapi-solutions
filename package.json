@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "h2o2": "^5.4.0",
     "handlebars": "^4.0.10",
     "hapi": "^16.5.0",
     "inert": "^4.2.1",
     "path": "^0.12.7",
+    "rot13-transform": "^1.0.0",
     "vision": "^4.1.1"
   }
 }
